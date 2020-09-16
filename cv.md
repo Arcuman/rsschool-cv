@@ -13,4 +13,4 @@ And worked with platform **Azure**(with blob storage and media services). I know
   * https://github.com/Arcuman/Make-your-choice.-Life-or-Power - 2D-platformer on Unity, done in 2 days at the hackathon 
   * https://github.com/Arcuman/Borto_v1 - my course work on WPF with Entity Fraemwork, MVVM pattern , platform Azure,
     * Desktop application for video storage with a built-in video player, the ability to rate other people's videos, subscribe to channels, create playlists, and so on 
-6. English level: A2+ according to [https://training.by/](https://training.by/). 
+6. English level: A2+ according to [https://training.by/](https://training.by/).

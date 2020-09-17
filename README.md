@@ -1,1 +1,1 @@
-# https://Arcuman.github.io/rsschool-cv/cv
+# https://Arcuman.github.io/rsschool-cv/

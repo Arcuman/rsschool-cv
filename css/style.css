@@ -1,8 +1,9 @@
-body{
+body {
 	font-family: 'Arial MT', Helvetica, sans-serif;
 	background-color: #55B9D0;
 	letter-spacing: 0.3px;
- }
+}
+
 .wrapper {
 	margin: 15px auto;
 	min-height: 100%;
@@ -10,39 +11,46 @@ body{
 	display: flex;
 	flex-direction: column;
 	max-width: 1180px;
- }
- .content {
-	flex:1 1 auto;
- }
- .container{
+}
+
+.content {
+	flex: 1 1 auto;
+}
+
+.container {
 	max-width: 1180px;
 	margin: 0 auto;
 }
 
 .title {
-  text-transform: uppercase;
-  line-height: 36px;
-  color: #55B9D0;
-  font-size: 30px;
+	text-transform: uppercase;
+	line-height: 36px;
+	color: #55B9D0;
+	font-size: 30px;
 }
+
 .header {
 	background-color: #F5F3F2;
 	font-size: 30px;
 	border-bottom: 10px #56909D solid;
 }
- .header__row {
+
+.header__row {
 	display: flex;
 	flex-wrap: wrap;
- }
+}
+
 .header__image {
 	margin: 15px 30px;
 	flex: 0 0 300px;
- }
- .header__image img {
+}
+
+.header__image img {
 	max-width: 100%;
 	border: 3px #55B9D0 solid;
 	border-radius: 50%;
- }
+}
+
 .header__title {
 	display: flex;
 	text-align: left;
@@ -50,36 +58,43 @@ body{
 	justify-content: center;
 	flex: 1 1 auto;
 }
-.header__fullname h1{
+
+.header__fullname h1 {
 	color: #55B9D0;
 	font-size: 90px;
 	margin-bottom: 15px;
 }
-.header__fullname p{
+
+.header__fullname p {
 	font-size: 25px;
 	padding-left: 5px;
-	
+
 }
+
 a:link {
-	color: #497DDD; 
-	border-bottom: 1px dashed; 
- }
- a:visited {
-	color: #56909D;
- }
- a:hover {
-	color: #154088; 
-	border-bottom: .07em solid;
- }
- a:active {
-	color: #497DDD; 
+	color: #497DDD;
 	border-bottom: 1px dashed;
- }
+}
+
+a:visited {
+	color: #56909D;
+}
+
+a:hover {
+	color: #154088;
+	border-bottom: .07em solid;
+}
+
+a:active {
+	color: #497DDD;
+	border-bottom: 1px dashed;
+}
+
 .columns {
 	padding: 10px 10px 20px 10px;
 	display: flex;
 	justify-content: center;
-	background-color:#F5F3F2;
+	background-color: #F5F3F2;
 	border-bottom: 10px #56909D solid;
 }
 
@@ -87,7 +102,7 @@ a:link {
 	margin: 0 -13px;
 	display: flex;
 	flex-wrap: wrap;
-	
+
 }
 
 .columns__body {
@@ -97,10 +112,11 @@ a:link {
 
 .columns__title {
 	text-align: left;
+
 	font-size: 30px;
 	line-height: 36px;
 	padding-top: 20px;
-	margin:10px 0 10px 10px;
+	margin: 10px 0 10px 10px;
 }
 
 .columns__text {
@@ -110,18 +126,20 @@ a:link {
 	color: #333333;
 }
 
-.footer {	
+.footer {
 	background-color: #F5F3F2;
 }
+
 .footer-row {
 	display: flex;
 	height: 65px;
 	justify-content: center;
 	align-items: center;
- }
- .footer__text {
+}
+
+.footer__text {
 	color: #445162;
 	font-family: "Arial MT";
 	font-size: 14px;
 	letter-spacing: 0.3px;
-	}
+}
